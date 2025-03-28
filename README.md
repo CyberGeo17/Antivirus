@@ -9,7 +9,7 @@ A simple antivirus script in Python to scan files and directories for known viru
 
 ## Usage
 1. **Clone the repository**:
-    git clone https://github.com/YOUR_USERNAME/antivirus-script.git
+    git clone https://github.com/CyberGeo17/antivirus-script.git
     cd antivirus-script
  
 
